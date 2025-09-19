@@ -1,0 +1,12 @@
+Payment
+Question 1: Because magnetic stripe card is more easy to copy illgeally. It uses more safe PIN code and cryptographic algorithms instead of signature to improve security and reduce relevant fraud.
+Question 2: EMV certificates are an authenticity tool of payment cards. It authenticate the card by matching the public key certificate and Signed Static Appliance Data, which can protect payment safety.
+Question 3: It has four attacks,including conversation capturing, PIN harvesting and stripe cloning, CVM downgrade allows arbitrary PIN harvest and PIN bypass. The PIN bypass attack is relevant to contactless payment. The card-not-present attacks is more common in telephone, internet and mail order transactions because of the remote trading.
+
+MFA
+Question 1: The customer must combine the entity payment card and the PiN code correctly to transact. 
+Question 2: The users only pass two or more different types of authentication can have access to the website or application, which can protect the account safety.
+Question 3: I use multi-factor authentication to transfer my bank account money, and i use multi-factor authentication to log in my school account.
+Question 4: It has some attacks, including fatigue attacks, phishing and SIM swapping.
+            For time based one time password, it has some attacks like lose and theft. Because users have to take physical token and a new account usually needs a new physical token. Moreover, many organizations forbid bringing USBs and electronic devices into or out of the premises, many machines don't have USB ports and the management cost of token is also a key. 
+            For text message verification, the phones can be cloned and destroyed, the applications can run on serveral phones, messages can be stolen by third parties and the maintenance personnel can read text messages. These are all possible attacks. 
